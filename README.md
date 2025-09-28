@@ -17,7 +17,7 @@ This game was developed as the **capstone / integrative project** for the course
 
 **Desarrollo de Videojuegos en Unity**  
 Part of the **Desarrollo y Diseño de Videojuegos** specialization by **Universidad de los Andes**.  
-[Course on Coursera](https://www.coursera.org/learn/desarrollo-videojuegos-unity) :contentReference[oaicite:0]{index=0}  
+[Course on Coursera](https://www.coursera.org/learn/desarrollo-videojuegos-unity)  
 
 The course covers:  
 - Fundamentals of Unity for 2D games (editor, scenes, sprites) :contentReference[oaicite:1]{index=1}  
