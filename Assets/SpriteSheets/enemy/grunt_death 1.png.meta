@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 7174d85b86e690f48b82b6483cc9b177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6883075199482126526
+    second: grunt_death_0
+  - first:
+      213: 2171398353750132433
+    second: grunt_death_1
+  - first:
+      213: 532661136938081494
+    second: grunt_death_2
+  - first:
+      213: 2833213003314429770
+    second: grunt_death_3
+  - first:
+      213: 3358180525364262772
+    second: grunt_death_4
+  - first:
+      213: -5813246268657223743
+    second: grunt_death_5
+  - first:
+      213: 5614672154934445523
+    second: grunt_death_6
+  - first:
+      213: 1858104537345921640
+    second: grunt_death_8
+  - first:
+      213: -8152507116365534082
+    second: grunt_death_10
+  - first:
+      213: -2644551089563665713
+    second: grunt_death_11
+  - first:
+      213: -3792662818546884864
+    second: grunt_death 1_0
+  - first:
+      213: -5122844320218632177
+    second: grunt_death 1_1
+  - first:
+      213: -9143245343679093938
+    second: grunt_death 1_2
+  - first:
+      213: 8980778422023716311
+    second: grunt_death 1_3
+  - first:
+      213: -1947912082758379726
+    second: grunt_death 1_4
+  - first:
+      213: 4226858131973828745
+    second: grunt_death 1_5
+  - first:
+      213: 3912584837562788911
+    second: grunt_death 1_6
+  - first:
+      213: -3575472094886667726
+    second: grunt_death 1_8
+  - first:
+      213: 506812669714061195
+    second: grunt_death 1_10
+  - first:
+      213: 6144001661358539711
+    second: grunt_death 1_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grunt_death 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f5eabc241cd5bc0800000000000000
+      internalID: -3792662818546884864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00bdb59b3008e8b0800000000000000
+      internalID: -5122844320218632177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4363cb8dcaac1180800000000000000
+      internalID: -9143245343679093938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7733846222ac70800000000000000
+      internalID: 8980778422023716311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237de7df740a7f4e0800000000000000
+      internalID: -1947912082758379726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 312
+        height: 22
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98075408311d8aa30800000000000000
+      internalID: 4226858131973828745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c62841e2b4c4630800000000000000
+      internalID: 3912584837562788911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a55f7c21f516ec0800000000000000
+      internalID: -3575472094886667726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8759f9107f880700800000000000000
+      internalID: 506812669714061195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grunt_death 1_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb38fac65f0e34550800000000000000
+      internalID: 6144001661358539711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -141, y: 8}
+      - {x: -149, y: 8}
+      - {x: -154, y: 4}
+      - {x: -154, y: -7}
+      - {x: -151, y: -11}
+      - {x: -133, y: -11}
+      - {x: -133, y: -1}
+      - {x: -135, y: 7}
+    - - {x: -116, y: 9}
+      - {x: -126, y: 9}
+      - {x: -129, y: 6}
+      - {x: -129, y: 0}
+      - {x: -125, y: -11}
+      - {x: -106, y: -11}
+      - {x: -106, y: -4}
+      - {x: -109, y: 6}
+    - - {x: -102, y: 9}
+      - {x: -104, y: 6}
+      - {x: -104, y: 0}
+      - {x: -100, y: -11}
+      - {x: -81, y: -11}
+      - {x: -81, y: 3}
+      - {x: -90, y: 9}
+    - - {x: -71, y: 10}
+      - {x: -78, y: 7}
+      - {x: -78, y: -5}
+      - {x: -75, y: -11}
+      - {x: -53, y: -11}
+      - {x: -53, y: 8}
+      - {x: -55, y: 10}
+    - - {x: -31, y: 11}
+      - {x: -49, y: 11}
+      - {x: -51, y: 8}
+      - {x: -51, y: -11}
+      - {x: -29, y: -11}
+      - {x: -27, y: -9}
+      - {x: -27, y: 7}
+    - - {x: -23, y: 10}
+      - {x: -26, y: 6}
+      - {x: -26, y: -4}
+      - {x: -21, y: -11}
+      - {x: -3, y: -11}
+      - {x: -3, y: 4}
+      - {x: -12, y: 10}
+    - - {x: 2, y: 11}
+      - {x: 0, y: 8}
+      - {x: 0, y: -5}
+      - {x: 3, y: -11}
+      - {x: 25, y: -11}
+      - {x: 25, y: 11}
+    - - {x: 27, y: 11}
+      - {x: 27, y: -11}
+      - {x: 51, y: -11}
+      - {x: 51, y: 11}
+    - - {x: 55, y: -1}
+      - {x: 54, y: -5}
+      - {x: 54, y: -10}
+      - {x: 56, y: -11}
+      - {x: 74, y: -11}
+      - {x: 75, y: -10}
+      - {x: 75, y: -8}
+      - {x: 70, y: -1}
+    - - {x: 82, y: -6}
+      - {x: 81, y: -9}
+      - {x: 83, y: -11}
+      - {x: 98, y: -11}
+      - {x: 98, y: -9}
+      - {x: 97, y: -6}
+    - - {x: 114, y: -6}
+      - {x: 113, y: -9}
+      - {x: 113, y: -10}
+      - {x: 114, y: -11}
+      - {x: 119, y: -11}
+      - {x: 120, y: -10}
+      - {x: 120, y: -7}
+      - {x: 118, y: -6}
+    - - {x: 141, y: -11}
+      - {x: 145, y: -11}
+      - {x: 145, y: -8}
+      - {x: 142, y: -7}
+      - {x: 140, y: -9}
+    - - {x: 73, y: 11}
+      - {x: 58, y: 11}
+      - {x: 53, y: 7}
+      - {x: 53, y: 2}
+      - {x: 54, y: -1}
+      - {x: 76, y: -1}
+      - {x: 77, y: 2}
+      - {x: 77, y: 8}
+    - - {x: 83, y: 11}
+      - {x: 82, y: 9}
+      - {x: 82, y: 1}
+      - {x: 83, y: 0}
+      - {x: 102, y: 0}
+      - {x: 103, y: 1}
+      - {x: 103, y: 11}
+    - - {x: 112, y: 11}
+      - {x: 111, y: 10}
+      - {x: 111, y: 8}
+      - {x: 116, y: 4}
+      - {x: 118, y: 4}
+      - {x: 122, y: 8}
+      - {x: 122, y: 9}
+      - {x: 120, y: 11}
+    - - {x: 140, y: 11}
+      - {x: 139, y: 9}
+      - {x: 142, y: 6}
+      - {x: 144, y: 6}
+      - {x: 147, y: 9}
+      - {x: 146, y: 11}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
